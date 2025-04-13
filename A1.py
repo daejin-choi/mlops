@@ -1,2 +1,2 @@
 def funcA():
-    return 'A1'
+    return 'conflict-A1'
