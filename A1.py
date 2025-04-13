@@ -1,2 +1,2 @@
 def funcA():
-    return 'A1'
+    return 'Master A1'
