@@ -1,0 +1,2 @@
+def funcB():
+    return 'B'
