@@ -1,2 +1,2 @@
 def funcA():
-    return 'A'
+    return 'AAAAAAAAA'
